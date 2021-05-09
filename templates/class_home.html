@@ -1,0 +1,14 @@
+<h2>Exception Text Classifier</h2>
+
+<form  method="POST" enctype="multipart/form-data">
+	LSTM Classifier<input type="checkbox" name="Class" value="1">
+	Spacy Classifier<input type="checkbox" name="Class" value="2">
+	Audit Classifier<input type="checkbox" name="Class" value="3">
+    <input type="file" name="csvfile" value="">
+    <input type="submit" name="" value="Submit/Reset">
+    <br>
+    <br>
+{% for i in data %}
+	{{i}}<br>
+{% endfor %}
+</form>

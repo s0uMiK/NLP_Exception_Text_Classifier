@@ -1,0 +1,48 @@
+,Spacy Classifier Results
+0,Business Exception : Invite not found in both CBS mailbox
+1,Business Exception : Interviewer xxxx mail ID not found in invite. 
+2,Business Exception : Invite not found in both TAX and PAS mailbox
+3,"System Exception : InternalFailed to evaluate expression 'Replace([MailBody],""$Item$"",[Mail_Data.ID]) - The collection has no c"
+4,System Exception : Could not execute code stage because exception thrown by code stage: The given key was not present in the dictionary.
+5,Business Exception : Email Id not found Failed to read Email
+6,System Exception : Automatically set exception at CleanUp
+7,System Exception : Automatically set exception on session end
+8,Business Exception : Recruiter xxxx mail ID not found in invite. 
+9,Business Exception : Invite not found in Assurance Mailbox
+10,System Exception : Exception occured while accessing article page. This article is unable to be processed.
+11,System Exception : System Exception:Unable to Launch Service Now site after three retries
+12,Business Exception : Missing mandatory fields
+13,Business Exception : Invite not found in Consulting Mailbox
+14,System Exception : Internal:No data found for new work queue items
+15,System Exception : Internal:Failed to evaluate expression '[Filtered output.P2] - The collection has no current row
+16,Business Exception : On Page:Populated Filterd Data Into QueueFile Not Contain any valid APAC Country data:
+17,Business Exception : Mandatory field missing - PO not created by parent
+18,Business Exception : 2036 - SA - NO Entries to be Processed
+19,Business Exception : Mandatory field missing - PO not created by parent To be proecssed manually
+20,System Exception : Unexpected Error occured in adding requests in a request form to queue
+21,System Exception : Failed to perform step 1 in Read Stage 'Read product model' on page 'Purchase Order Line Items' - The object invoked has disconnected from its clients. (Exception from HRESULT: 0x80010108 (RPC_E_DISCONNECTED))
+22,"Business Exception : Email does not contains the right Subject, subject does not start with **"
+23,System Exception : BBC Update failed for BBC ID- 209- The remote server returned an error: (504) Gateway Timeout.
+24,System Exception : BBC Update failed for BBC ID- 421- The remote server returned an error: (504) Gateway Timeout.
+25,Business Exception : 2034 - TFD - NO Entries to be Processed
+26,"System Exception : Failed to perform step 1 in Navigate Stage 'Invoke JS RAM Visible?' on page 'Place Order' - Failed while invoking javascript method:Exception from HRESULT: 0x80020101->   at mshtml.HTMLWindow2Class.IHTMLWindow2_execScript(String code, String language)    at BluePrism.ApplicationManager.HTML.clsHTMLDocument.InvokeJavascriptMethod(String methodname, String jsonargs, Object& retval, String& sErr) To be proecssed manually"
+27,"Business Exception : Email template not found, Bot failed to send the output file"
+28,System Exception : Failed to perform step 1 in Write Stage 'Write to EY House Bank' on page 'W- Coding Block' - Exception has been thrown by the target of an invocation.
+29,"System Exception : Failed to perform step 1 in Navigate Stage 'Navigate1' on page 'N-Search Req' - Failed while invoking javascript method:Exception from HRESULT: 0x80020101->   at mshtml.HTMLWindow2Class.IHTMLWindow2_execScript(String code, String language)    at BluePrism.ApplicationManager.HTML.clsHTMLDocument.InvokeJavascriptMethod(String methodname, String jsonargs, Object& retval, String& sErr) - Failed to update data to BBC"
+30,System Exception : Unable to launch Taleo application
+31,Business Exception : Error in Input File
+32,System Exception : Internal:Failed to perform step 1 in Write Stage 'Clear short desc' on page 'W-ProblemTicket-Tabs' - Access is denied. (Exception from HRESULT: 0x80070005 (E_ACCESSDENIED))
+33,System Exception : Could not execute code stage because exception thrown by code stage: Call was rejected by callee. (Exception from HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+34,System Exception : Exception occured at ES_ITS_TDR_SCCM : Failed to perform step 1 in Navigate Stage 'Launch' on page 'Launch' - Application already launched
+35,Business Exception : The Main Collection does not contain 'NodeLevel'
+36,System Exception : Could not execute code stage because exception thrown by code stage: Exception from HRESULT: 0x800A9C68
+37,System Exception : System Exception :Unable to Launch the RAM Site: Unable to update the Opportunity ID
+38,System Exception : Failed to fetch data from RACE tool due to site issue - Exception while finding new RACE form - Exception while finding new RACE form - RACE : Failure to find Textbox value
+39,System Exception : Failed to fetch data from RACE tool due to site issue - Exception while finding new RACE form - RACE : Failure to find Textbox value
+40,System Exception : Failed to fetch data from RACE tool due to site issue - Failed to perform step 1 in Navigate Stage 'Click Search and filter' on page 'Click-Home' - Error creating window handle.
+41,System Exception : Could not execute code stage because exception thrown by code stage: Out of memory.
+42,System Exception : Internal_Could not execute code stage because exception thrown by code stage: The control could not be found by id.
+43,System Exception : Failed to perform step 1 in Read Stage 'Read product model' on page 'Purchase Order Line Items' - No elements match the supplied query terms
+44,System Exception : BBC Update failed for BBC ID- 330- The remote server returned an error: (504) Gateway Timeout.
+45,System Exception : Failed to perform step 1 in Navigate Stage 'Click On the Number' on page 'Click On Task SLA' - Cannot find region identified as an image.
+46,System Exception : Error in populating result in output template - Unexpected error occured in running output  macro

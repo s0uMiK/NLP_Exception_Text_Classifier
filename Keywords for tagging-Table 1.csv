@@ -1,0 +1,19 @@
+SystemException,BusinessException
+Unable to launch,Missing mandatory fields
+Failed to fetch data,Mail Id not found
+Site issue,Invite not found
+Code stage,Template not found
+Exception,Error in Input File
+HRESULT,Not Contain
+Automatically set Cleanup,Field missing
+Code stage,To be processed manually
+Out of memory,
+Unexpected Exception,
+Operation failed,
+Internal,
+Evaluate expression,
+Code stage,
+Unexpected Exception,
+Operation failed,
+Time out,
+Failed to Perform,
